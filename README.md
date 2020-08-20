@@ -8,11 +8,8 @@ To complete this assignment, edit this README by doing the following,
 
 - Share 2 or 3 things about yourself
 
-  I'm a senior this year
-  I like to go camping
-  I like music
+  I'm a senior this year, I like to go camping, and I like music.
 
 - Indiate your goal(s) you have for this course
 
-  Gain a good understanding of Java
-  Pass the AP test
+  Gain a good understanding of Java, and Pass the AP test
